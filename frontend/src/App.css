@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  height :100vh;
+  width :100%;
+  background-color: rgb(62, 62, 192);
+  color: whitesmoke;
+}
+.card-contact{
+  box-shadow: rgba(231, 229, 229, 0.16) 0px 3px 8px;
+  border-radius: 10px;
+}
+
+input{
+  border: none;
+  outline: none;
+  padding: 5px;
+  width:600px ;
+}
+
+textarea{
+  border: none;
+  outline: none;
+  padding: 5px;
+  width:600px ;
+}
+#imp{
+  width: 290px !important;
+}
+
+.cont-form{
+  height: 80vh;
+}
